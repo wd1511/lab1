@@ -1,5 +1,6 @@
 //wd and xh
 /* 2017.09*/
+//*************************
 package lab1;
 
 import java.awt.*;
