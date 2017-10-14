@@ -1,3 +1,4 @@
+//wd and xh
 package lab1;
 
 import java.awt.*;

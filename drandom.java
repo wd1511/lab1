@@ -1,3 +1,4 @@
+//by wd and hx
 package lab1;
 
 /*走过的顶点设为绿色，
