@@ -1,4 +1,5 @@
 //by wd and hx
+/* 2017.09*/
 package lab1;
 
 /*走过的顶点设为绿色，
